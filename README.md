@@ -3,4 +3,4 @@
 
 **Before downloading, please read our licensing terms!**
 
-![image](https://static.vecteezy.com/system/resources/thumbnails/033/842/617/small/retro-gaming-digital-art-illustration-generative-ai-photo.jpeg)
+![image]()
