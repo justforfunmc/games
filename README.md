@@ -3,4 +3,4 @@
 
 **Before downloading, please read our licensing terms!**
 
-![image]()
+![Image placeholder]()
